@@ -1,4 +1,4 @@
-Hi 👋 My name is Allyssa Poulin(she/her)
+Hi 👋 My name is Allyssa(she/her)
 ===============================  
 Software Developer 
 ------------------  
