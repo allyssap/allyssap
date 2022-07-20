@@ -2,7 +2,10 @@ Hi 👋 My name is Allyssa Poulin(she/her)
 ===============================  
 Software Developer 
 ------------------  
-The first programming language I started to learn was HTML, and that was over a decade ago! I am so lucky to have found that my passions for problem solving and math work perfect for my career as a developer. I am actively seeking an internship for summer 2023.  * 🌍  I'm based in Canada * ✉️  You can contact me at [Poulina@uwindsor.ca](mailto:Poulina@uwindsor.ca) * 🧠  I'm learning React
+The first programming language I started to learn was HTML, and that was over a decade ago! I am so lucky to have found that my passions for problem solving and math work perfect for my career as a developer. I am actively seeking an internship for summer 2023.  
+* 🌍  I'm based in Canada 
+* * ✉️  You can contact me at [Poulina@uwindsor.ca](mailto:Poulina@uwindsor.ca) 
+* * 🧠  I'm learning React
 
 ### Skills
 
