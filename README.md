@@ -4,7 +4,7 @@ Software Developer
 ------------------  
 The first programming language I started to learn was HTML, and that was over a decade ago! I am so lucky to have found that my passions for problem solving and math work perfect for my career as a developer. I am actively seeking an internship for summer 2023.  
 * 🌍  I'm based in Canada 
-* 📄 Know about my experience [https://allyssa.ca/files/Resume.pdf](https://allyssa.ca/files/Resume.pdf)
+* 📄 Know about my experience: [view my resume](https://allyssa.ca/files/Resume.pdf)
 * ✉️  You can contact me at [Poulina@uwindsor.ca](mailto:Poulina@uwindsor.ca) or [allyssapoul@outlook.com](mailto:allyssapoul@outlook.com)
 * 🧠  I'm learning C# and Java SpringBoot
 * :computer: <a href="http://allyssa.ca">allyssa.ca</a>
