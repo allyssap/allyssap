@@ -6,7 +6,7 @@ The first programming language I started to learn was HTML, and that was over a 
 * 🌍  I'm based in Canada 
 * ✉️  You can contact me at [Poulina@uwindsor.ca](mailto:Poulina@uwindsor.ca) or [allyssapoul@outlook.com](mailto:allyssapoul@outlook.com)
 * 🧠  I'm learning C# and Java SpringBoot
-* :computer: allyssa.ca
+* :computer: [allyssa.ca](href:http://allyssa.ca)
 
 ### Skills
 
