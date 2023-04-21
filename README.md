@@ -2,7 +2,7 @@ Hi 👋 My name is Allyssa(she/her)
 ===============================  
 Software Developer 
 ------------------  
-The first programming language I started to learn was HTML, and that was over a decade ago! I am so lucky to have found that my passions for problem solving and math work perfect for my career as a developer. I am actively seeking an internship for summer 2023.  
+The first programming language I started to learn was HTML, and that was over a decade ago! I am so lucky to have found that my passions for problem solving and math work perfect for my career as a software engineer. I am currently seeking a new grad opportunity!
 * 🌍  I'm based in Canada 
 * 📄 Know about my experience: [view my resume](https://allyssa.ca/files/Resume.pdf)
 * ✉️  You can contact me at [Poulina@uwindsor.ca](mailto:Poulina@uwindsor.ca) or [allyssapoul@outlook.com](mailto:allyssapoul@outlook.com)
