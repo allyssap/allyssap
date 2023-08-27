@@ -4,7 +4,7 @@ Software Developer
 ------------------  
 The first programming language I started to learn was HTML, and that was over a decade ago! I am so lucky to have found that my passions for problem solving and math work perfectly for my career as a software engineer. I am currently seeking a new grad opportunity!
 * 🌍  I'm based in Canada 
-* 📄 Know about my experience: [view my resume](https://allyssap.github.io/personalportfolio/files/resume.pdf)
+* 📄 Know about my experience: [view my resume](https://allyssap.github.io/personalportfolio/resume.pdf)
 * ✉️  You can contact me at [Poulina@uwindsor.ca](mailto:Poulina@uwindsor.ca) or [allyssapoul@outlook.com](mailto:allyssapoul@outlook.com)
 * 🧠  I'm learning C#
 * :computer: <a href="[http://allyssa.ca](https://allyssap.github.io/personalportfolio/)">https://allyssap.github.io/personalportfolio/</a>
